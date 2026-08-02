@@ -97,11 +97,26 @@ Examples:
 - Clean backgrounds
 - Single clear focus
 
+## Proven Visual Elements
+
+- Transparent supplement jars
+- Realistic labels
+- Grey stone countertop
+- Nude manicure
+- White or black cardigan sleeves
+- Soft daylight
+- Empty space at the top for logo
+- Vertical 4:5 composition
+
 ---
 
 # Topics To Avoid
 
-(To be updated)
+- Overly technical explanations
+- Fear-based messaging
+- Unrealistic promises
+- Medical claims
+- Complex scientific language
 
 ---
 
