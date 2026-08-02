@@ -45,6 +45,13 @@ Image-to-video animation.
 - Social media content
 - Motion effects
 
+## Typical Use Cases
+
+- Product animation
+- Social media videos
+- Motion effects
+- Bringing static images to life
+
 ---
 
 # Nana Banana
@@ -58,6 +65,21 @@ Instagram visuals and product images.
 - Fast generation
 - Product photography
 - Lifestyle content
+
+---
+
+# Midjourney
+
+## Purpose
+
+Creative image generation.
+
+## Strengths
+
+- Concept development
+- Artistic direction
+- Moodboards
+- Visual exploration
 
 ---
 
@@ -92,3 +114,23 @@ Content planning and reporting.
 # Notes
 
 Only keep tools that are actually used in real workflows.
+
+---
+
+# Personal Workflow
+
+## Content
+
+ChatGPT → Content Strategy → Post Draft
+
+## Images
+
+ChatGPT → Prompt → Nana Banana / Midjourney
+
+## Video
+
+Image → Kling → Social Media Video
+
+## Documentation
+
+GitHub → Prompt Library
