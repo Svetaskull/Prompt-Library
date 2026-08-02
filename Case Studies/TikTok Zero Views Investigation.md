@@ -1,79 +1,57 @@
-# TikTok Zero Views Investigation
+# Current Situation
 
-## Problem
+## Background
 
-Accounts receive zero or near-zero views despite regular posting.
+Several TikTok accounts experienced severe reach issues.
 
----
+Some accounts receive:
 
-## Symptoms
+- 0 views
+- Extremely low views
+- Unstable distribution
 
-- Videos stuck at 0 views
-- Videos get only a few views
-- No distribution to FYP
-- Sudden drop after previous activity
-
----
-
-## Hypotheses
-
-### H1
-
-Shadowban
-
-Status:
-Unknown
+The issue affects content performance and publication plans.
 
 ---
 
-### H2
+# Known Facts
 
-Account quality issues
+## Account Statuses
 
-Status:
-Testing
+Observed statuses:
 
----
-
-### H3
-
-Device contamination
-
-Status:
-Testing
+- Normal accounts
+- Low reach accounts
+- Red accounts (problematic accounts)
 
 ---
 
-## Observations
+## Team Actions
+
+Considered options:
+
+- Replace existing TikTok managers
+- Add new managers as support
+- Compare performance between teams
+
+---
+
+# Questions To Investigate
+
+- Do new accounts perform better?
+- Does device separation matter?
+- Does posting frequency affect recovery?
+- How long does recovery take?
+- Which actions improve reach?
+
+---
+
+# Experiments
 
 (To be updated)
 
 ---
 
-## Experiments
-
-### Experiment 1
-
-Description:
-
-Result:
-
-Conclusion:
-
----
-
-## Working Solutions
-
-(To be updated)
-
----
-
-## Failed Solutions
-
-(To be updated)
-
----
-
-## Final Notes
+# Conclusions
 
 (To be updated)
