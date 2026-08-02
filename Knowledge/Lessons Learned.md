@@ -1,23 +1,51 @@
-# Lessons Learned
+# Content
 
-## Content
+## Lesson 1
 
-People engage more with symptoms than ingredients.
+Symptoms attract attention faster than ingredients.
 
----
+Example:
 
-## Images
+People react more to:
 
-One clear visual idea performs better than complex scenes.
+"Why do legs cramp in summer?"
 
----
+than to:
 
-## Workflow
-
-Documenting processes saves time.
+"Benefits of magnesium"
 
 ---
 
-## AI
+## Lesson 2
 
-The best prompts come from iteration, not from writing longer prompts.
+Seasonal topics are easier to relate to.
+
+People recognize problems they are experiencing right now.
+
+---
+
+# Management
+
+## Lesson 1
+
+Clear documentation reduces repetitive questions.
+
+---
+
+## Lesson 2
+
+Onboarding becomes easier when processes are written down.
+
+---
+
+# AI
+
+## Lesson 1
+
+The best prompts are usually refined through multiple iterations.
+
+---
+
+## Lesson 2
+
+A good concept matters more than a very long prompt.
