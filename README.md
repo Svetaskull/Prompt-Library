@@ -1,22 +1,44 @@
 # Prompt Library
 
-My personal knowledge base for AI, content creation and automation.
+Personal knowledge base for AI, content creation, automation and content strategy.
 
-## Content Creation
+## Structure
 
-- Beautery Instagram Posts
+### Content Creation
+
 - Instagram Posts
+- Beautery Instagram Posts
 - Carousels
 
-## Image Generation
+### Image Generation
 
 - Beautery Product Photography
 - Instagram Post Concepts
 
-## Automation
+### Content Strategy
+
+- Instagram Carousel Frameworks
+- Viral Hooks
+- Content Angles
+- Content Matrix
+
+### Automation
 
 - AI Workflow Ideas
+- Useful AI Tools
+- Workflow Templates
+
+### Case Studies
+
+- Beautery
+- Account Management Team
+
+### Templates
+
+- Instagram Post Template
+- Carousel Template
+- Image Brief Template
 
 ## Purpose
 
-This repository stores proven prompts, workflows, concepts and templates used in real projects.
+Store proven prompts, workflows, strategies and case studies in one place.
