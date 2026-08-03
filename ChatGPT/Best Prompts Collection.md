@@ -14,11 +14,32 @@ Create educational Instagram posts for the Beautery marketplace.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+You are an experienced content marketer specializing in supplements, vitamins, sports nutrition and cosmetics.
+
+Create an educational Instagram post for the Beautery marketplace.
+
+Topic: [TOPIC]
+
+Requirements:
+
+- Write in clear and simple language.
+- Focus on practical value.
+- Avoid medical claims and exaggerated promises.
+- Explain why the topic matters.
+- Give useful recommendations.
+- Maintain a friendly expert tone.
+
+Structure:
+
+1. Headline
+2. Introduction
+3. Main information
+4. Practical takeaway
+5. Call to action
 
 ### Notes
 
-Works well for educational content.
+Main prompt for educational content.
 
 ---
 
@@ -26,15 +47,32 @@ Works well for educational content.
 
 ### Goal
 
-Create Instagram carousels.
+Create engaging Instagram carousels.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+Create a 7-slide Instagram carousel.
+
+Topic: [TOPIC]
+
+Requirements:
+
+- Strong first slide
+- One key idea per slide
+- Short text
+- Curiosity-driven structure
+- Educational tone
+- Practical advice
+
+Structure:
+
+Slide 1: Hook
+Slide 2-6: Explanation
+Slide 7: Conclusion and CTA
 
 ### Notes
 
-Useful for symptom-based content.
+Works best for symptoms, myths and seasonal topics.
 
 ---
 
@@ -44,15 +82,29 @@ Useful for symptom-based content.
 
 ### Goal
 
-Generate realistic supplement product photography.
+Create realistic supplement product images.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+Photorealistic supplement product photography.
+
+Requirements:
+
+- Realistic transparent supplement jar
+- Professional product photography
+- Natural daylight
+- Clean gray countertop
+- Soft shadows
+- Premium wellness aesthetic
+- Realistic label design
+- Vertical Instagram format (4:5)
+- Leave space at the top for branding
+- No text overlays
+- No infographic elements
 
 ### Notes
 
-Best results with photorealistic style.
+Based on actual Beautery visual style.
 
 ---
 
@@ -60,15 +112,29 @@ Best results with photorealistic style.
 
 ### Goal
 
-Create visual concepts without text.
+Generate visual concepts for Instagram posts.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+Create a photorealistic Instagram image illustrating the topic:
+
+[TOPIC]
+
+Requirements:
+
+- No text
+- No charts
+- No infographics
+- Realistic photography style
+- Natural lighting
+- Premium aesthetic
+- Vertical format (4:5)
+- Clear visual story
+- Social media quality
 
 ### Notes
 
-Use vertical 4:5 format.
+Works for Nana Banana and Midjourney.
 
 ---
 
