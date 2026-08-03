@@ -184,44 +184,77 @@ Create SEO articles.
 
 ### Goal
 
-Create standard operating procedures.
+Create clear SOP documents for team members.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+You are an operations manager.
+
+Create a detailed SOP for:
+
+[TASK]
+
+Requirements:
+
+- Clear step-by-step instructions
+- Beginner-friendly language
+- Checklist format
+- Common mistakes section
+- Quality control section
+
+### Notes
+
+Useful for onboarding and documentation.
 
 ---
 
-## Process Documentation
+## Team Communication
 
 ### Goal
 
-Document workflows and processes.
+Draft professional team messages.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+You are a team lead.
+
+Write a clear message for team members.
+
+Situation:
+
+[SITUATION]
+
+Requirements:
+
+- Friendly tone
+- Clear instructions
+- Action items
+- Deadline if needed
+
+### Notes
+
+Useful for managers and remote teams.
 
 ---
 
-# Personal Favorites
+## Process Improvement
 
-## Top Prompts
+### Goal
 
-### Prompt 1
+Analyze and improve workflows.
 
-[PASTE PROMPT HERE]
+### Prompt
 
-### Why It Works
+Analyze the following workflow:
 
-[NOTES]
+[WORKFLOW]
 
----
+Identify:
 
-### Prompt 2
+- Bottlenecks
+- Repetitive tasks
+- Automation opportunities
+- Risks
+- Suggested improvements
 
-[PASTE PROMPT HERE]
-
-### Why It Works
-
-[NOTES]
+Provide actionable recommendations.
