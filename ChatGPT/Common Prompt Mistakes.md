@@ -4,7 +4,7 @@
 
 Bad:
 
-"Write a post about vitamins."
+Write a post about vitamins.
 
 ---
 
@@ -41,3 +41,25 @@ Expecting perfect output from the first attempt.
 ## Focusing On Prompt Length
 
 Longer prompts are not always better.
+
+---
+
+## Missing Examples
+
+Without examples, outputs may be inconsistent.
+
+---
+
+## Personal Observations
+
+### Observation 1
+
+Clear tasks produce better results.
+
+### Observation 2
+
+Specific prompts outperform generic prompts.
+
+### Observation 3
+
+Structured prompts are easier to improve over time.
