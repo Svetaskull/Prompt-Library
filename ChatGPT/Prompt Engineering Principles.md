@@ -4,11 +4,11 @@
 
 Bad:
 
-"Write a post."
+Write a post.
 
 Better:
 
-"Create an educational Instagram post about hydration for the Beautery marketplace."
+Create an educational Instagram post about hydration for the Beautery marketplace.
 
 ---
 
@@ -80,4 +80,14 @@ Specify:
 
 ## Personal Lessons
 
-(To be updated)
+### Lesson 1
+
+Good context often matters more than prompt length.
+
+### Lesson 2
+
+Examples significantly improve output quality.
+
+### Lesson 3
+
+The first result is usually a draft, not the final version.
