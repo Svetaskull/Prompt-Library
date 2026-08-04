@@ -1,57 +1,40 @@
-# 🚀 Prompt Library Dashboard
+# START HERE
 
-## Content Creation
+Welcome to the Prompt Library.
 
-- Beautery Instagram Posts
-- Instagram Posts
-- Carousels
+## New Visitors
 
-## Image Generation
+Start with:
 
-- Beautery Product Photography
-- Instagram Post Concepts
-
-## Content Strategy
-
-- Instagram Carousel Frameworks
-- Viral Hooks
-- Content Angles
-- Content Matrix
-
-## Automation
-
-- AI Workflow Ideas
-- Useful AI Tools
-- Workflow Templates
-
-## Templates
-
-- Instagram Post Template
-- Carousel Template
-- Image Brief Template
-
-## Case Studies
-
-- Beautery
-- Account Management Team
+1. About Me
+2. Portfolio
+3. Case Studies
 
 ---
 
-## Most Used Files
+## Content
 
-### Daily
+- Content Creation
+- Content Strategy
 
-- Viral Hooks
-- Content Angles
-- Beautery Instagram Posts
+---
 
-### Weekly
+## AI
 
-- Workflow Templates
-- Instagram Carousel Frameworks
-- Instagram Post Concepts
+- Prompt Engineering Principles
+- Best Prompts Collection
 
-### Reference
+---
 
-- Beautery
-- Account Management Team
+## Operations
+
+- SOP
+- Case Studies
+
+---
+
+## Knowledge Base
+
+- Marketing Principles
+- Lessons Learned
+- Things I Changed My Mind About
