@@ -2,18 +2,18 @@
 
 ## Who I Am
 
-Content strategist, AI enthusiast and team lead with experience in content operations, social media management and process optimization.
+Content Operations Lead with experience in content creation, team management, process optimization and AI-assisted workflows.
 
 ---
 
 ## Areas of Interest
 
-- AI and Prompt Engineering
+- AI & Prompt Engineering
 - Content Strategy
 - Social Media Operations
-- Process Optimization
+- Workflow Automation
 - Knowledge Management
-- Automation
+- Team Leadership
 
 ---
 
@@ -23,20 +23,25 @@ Content strategist, AI enthusiast and team lead with experience in content opera
 - Create content strategies
 - Manage content teams
 - Document workflows
-- Develop AI-assisted processes
+- Improve operational efficiency
+- Experiment with AI tools
 
 ---
 
 ## Current Focus
 
-Building systems that help create content faster, improve team workflows and capture knowledge effectively.
+Exploring the intersection of content, AI and operations.
+
+Building systems that make content creation and team management more efficient.
 
 ---
 
 ## Philosophy
 
-Good systems beat good intentions.
+Good systems scale.
 
 Documentation beats memory.
 
 Knowledge compounds over time.
+
+Small improvements create large results.
