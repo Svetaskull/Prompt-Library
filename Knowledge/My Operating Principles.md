@@ -1,39 +1,41 @@
 # My Operating Principles
 
-## Principle 1
+## Build Systems First
 
-Build systems before scaling effort.
-
----
-
-## Principle 2
-
-Document solutions once.
-
-Reuse many times.
+If a task repeats more than three times, document it.
 
 ---
 
-## Principle 3
+## Document Everything Useful
 
-A clear process beats motivation.
-
----
-
-## Principle 4
-
-If a task repeats often, create a template.
+Future me is a different person.
 
 ---
 
-## Principle 5
+## Reuse Before Creating
 
-Knowledge should be searchable.
-
-Not trapped in chat history.
+Check existing frameworks before building new ones.
 
 ---
 
-## Principle 6
+## Simplicity Wins
 
-Small improvements compound over time.
+The simplest workable solution is usually the best one.
+
+---
+
+## Knowledge Is An Asset
+
+Good documentation compounds over time.
+
+---
+
+## Automation Before Effort
+
+Reduce repetitive work whenever possible.
+
+---
+
+## Process Before Scale
+
+Fix the workflow before increasing volume.
