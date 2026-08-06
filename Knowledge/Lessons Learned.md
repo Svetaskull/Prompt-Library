@@ -85,6 +85,34 @@ Good context improves results more than prompt length.
 
 ---
 
+# Knowledge Management
+
+## Lesson 1
+
+Useful information should have a permanent home.
+
+Otherwise it gets lost in chats.
+
+---
+
+## Lesson 2
+
+A searchable knowledge base is more valuable than scattered notes.
+
+---
+
+## Lesson 3
+
+Knowledge compounds when it is documented and reused.
+
+---
+
+## Lesson 4
+
+The best documentation is the documentation that is actually used.
+
+---
+
 ## Lesson 3
 
 The first output is usually a draft.
