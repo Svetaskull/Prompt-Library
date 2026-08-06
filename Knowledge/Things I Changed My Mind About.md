@@ -4,11 +4,23 @@
 
 ### Old Belief
 
-People are interested in ingredients.
+People care about ingredients.
 
 ### New Belief
 
-People are interested in their problems.
+People care about problems.
+
+---
+
+## Content Creation
+
+### Old Belief
+
+More information creates better content.
+
+### New Belief
+
+Clear information creates better content.
 
 ---
 
@@ -16,11 +28,11 @@ People are interested in their problems.
 
 ### Old Belief
 
-Good results require very long prompts.
+AI replaces thinking.
 
 ### New Belief
 
-Context matters more than prompt length.
+AI amplifies structured thinking.
 
 ---
 
@@ -28,20 +40,32 @@ Context matters more than prompt length.
 
 ### Old Belief
 
-Documentation is extra work.
+I'll remember this later.
 
 ### New Belief
 
-Documentation saves work.
+If it's important, document it.
 
 ---
 
-## Management
+## Productivity
 
 ### Old Belief
 
-People only need instructions.
+Work harder.
 
 ### New Belief
 
-People need clear systems.
+Build better systems.
+
+---
+
+## Team Management
+
+### Old Belief
+
+Explaining things repeatedly is normal.
+
+### New Belief
+
+Create documentation and processes.
