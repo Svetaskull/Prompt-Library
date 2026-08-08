@@ -148,7 +148,35 @@ Generate content ideas.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+You are an experienced content strategist.
+
+Generate 20 content ideas for:
+
+[TARGET BRAND / PROJECT]
+
+Topic area:
+
+[TOPIC]
+
+Prioritize:
+
+- Problems people recognize in everyday life
+- Symptoms and situations
+- Common mistakes
+- Myths and misconceptions
+- Seasonal relevance
+- Practical value
+- Curiosity
+
+Avoid generic topics unless there is a strong and specific angle.
+
+For each idea provide:
+
+1. Topic
+2. Hook
+3. Recommended format
+4. Main angle
+5. Why the topic may be interesting to the audience
 
 ---
 
@@ -160,7 +188,37 @@ Generate hooks.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+You are an experienced social media content strategist.
+
+Create 15 alternative hooks for this topic:
+
+[TOPIC]
+
+The hooks should be:
+
+- Short
+- Specific
+- Curiosity-driven
+- Easy to understand
+- Based on a recognizable problem or situation
+
+Prioritize:
+
+- Recognition
+- Curiosity
+- Unexpected causes
+- Mistakes
+- Myths
+- Seasonal relevance
+
+Avoid:
+
+- Generic clickbait
+- Exaggerated claims
+- Medical promises
+- Overly dramatic wording
+
+For each hook, briefly identify the angle used.
 
 ---
 
@@ -174,7 +232,52 @@ Create SEO articles.
 
 ### Prompt
 
-[PASTE PROMPT HERE]
+You are an experienced SEO content writer.
+
+Create an SEO article about:
+
+[TOPIC]
+
+Target audience:
+
+[AUDIENCE]
+
+Primary keyword:
+
+[KEYWORD]
+
+Secondary keywords:
+
+[KEYWORDS]
+
+Requirements:
+
+- Write naturally for humans first.
+- Use clear structure with H2 and H3 headings.
+- Include the primary keyword naturally.
+- Avoid keyword stuffing.
+- Provide practical and useful information.
+- Use short paragraphs.
+- Explain complex concepts simply.
+- Do not invent facts.
+- Avoid exaggerated medical claims.
+
+Structure:
+
+1. Title
+2. Introduction
+3. Main sections
+4. Practical recommendations
+5. FAQ
+6. Conclusion
+
+After the article provide:
+
+- SEO title
+- Meta description
+- Suggested URL slug
+- Primary keyword
+- Secondary keywords
 
 ---
 
