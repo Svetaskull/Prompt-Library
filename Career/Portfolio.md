@@ -63,29 +63,35 @@ Content Operations & Content Strategy
 
 ## Account Management Team
 
-### Role
+### Current Role
 
-Team Lead
+Team Lead, Account Management
 
 ### Responsibilities
 
 - Managing account managers
-- Process improvement
-- Onboarding
-- Reporting control
+- Coordinating daily workflows
 - Publication monitoring
+- Reporting control
+- Onboarding and support
+- Process improvement
+- Problem identification and escalation
+- Documentation and SOP development
 
-### Scope
+### Focus
 
-- Coordination of account managers
-- Publication processes across multiple platforms
-- Daily reporting and status control
-- Issue detection and escalation
-- Process standardization
+Building scalable workflows, reducing repetitive coordination and improving team visibility.
 
-### Professional Focus
+### Professional Development
 
-Building systems that reduce repetitive manual coordination and make team processes easier to scale.
+This role combines:
+
+- Team leadership
+- Content operations
+- Process management
+- Quality control
+- Documentation
+- AI-assisted workflow optimization
 
 ---
 
