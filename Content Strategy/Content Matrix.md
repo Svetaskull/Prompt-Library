@@ -1,9 +1,15 @@
 # Content Matrix
 
-## Educational
+A framework for combining different content dimensions when generating and planning content.
 
-Purpose:
-Build trust and expertise.
+The matrix helps avoid producing the same type of content repeatedly.
+
+---
+
+## Dimension 1 — Content Objective
+
+### Education
+Build knowledge and understanding.
 
 Examples:
 
@@ -11,12 +17,8 @@ Examples:
 - What electrolytes do
 - How collagen works
 
----
-
-## Problem Solving
-
-Purpose:
-Address a specific pain point.
+### Problem Solving
+Address a specific audience problem.
 
 Examples:
 
@@ -24,25 +26,8 @@ Examples:
 - Why your skin feels dry
 - Why recovery feels slower
 
----
-
-## Myth Busting
-
-Purpose:
-Correct misconceptions.
-
-Examples:
-
-- More water isn't always enough
-- Fatigue isn't always lack of sleep
-- Expensive skincare isn't always better
-
----
-
-## Engagement
-
-Purpose:
-Increase comments and shares.
+### Engagement
+Encourage interaction.
 
 Examples:
 
@@ -51,12 +36,8 @@ Examples:
 - True or false
 - Guess the reason
 
----
-
-## Product Related
-
-Purpose:
-Connect education with products.
+### Product Support
+Connect educational content with relevant products.
 
 Examples:
 
@@ -66,27 +47,76 @@ Examples:
 
 ---
 
-## Seasonal
-
-Purpose:
-Use current context.
+## Dimension 2 — Content Angle
 
 Examples:
+
+- Problem
+- Symptom
+- Myth
+- Mistake
+- Comparison
+- Checklist
+- Question
+- Story
+
+See `Content Angles Library.md` for the full angle library.
+
+---
+
+## Dimension 3 — Context
+
+Examples:
+
+### Seasonal
 
 - Summer hydration
 - Winter immunity
 - Spring recovery
 
----
-
-## Lifestyle
-
-Purpose:
-Make content relatable.
-
-Examples:
+### Lifestyle
 
 - Office workers
 - Parents
 - Athletes
 - Students
+
+---
+
+## Combining Dimensions
+
+A single content idea can combine multiple dimensions.
+
+Example:
+
+**Objective:** Education
+
+**Angle:** Problem
+
+**Context:** Seasonal
+
+**Topic:** Why summer workouts feel harder
+
+Another example:
+
+**Objective:** Product Support
+
+**Angle:** Myth
+
+**Context:** Supplements
+
+**Topic:** Magnesium is not only about sleep
+
+---
+
+## Why Use A Matrix
+
+Combining dimensions creates more content possibilities without repeatedly inventing completely new topics.
+
+Instead of asking:
+
+> "What should we post?"
+
+ask:
+
+> "Which objective + angle + context combination should we explore?"
