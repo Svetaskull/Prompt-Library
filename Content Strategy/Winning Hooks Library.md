@@ -1,6 +1,6 @@
 # Winning Hooks Library
 
-Collection of proven content hooks.
+Collection of effective content hooks, patterns and reusable hook structures.
 
 ---
 
