@@ -1,5 +1,17 @@
 # Content Angles Library
 
+## Problems
+
+Explain a common problem and why it happens.
+
+Examples:
+
+- Why do legs cramp in summer?
+- Why are you tired after workouts?
+- Why does your skin feel dry?
+
+---
+
 ## Symptoms
 
 Explain a symptom and possible reasons behind it.
@@ -87,7 +99,7 @@ Examples:
 
 ## Before Problem Gets Worse
 
-Focus on early warning signs.
+Focus on early warning signs before a problem becomes more noticeable.
 
 Examples:
 
@@ -106,3 +118,26 @@ Examples:
 - Do I need supplements?
 - How much water should I drink?
 - When should I take magnesium?
+
+---
+
+## Trends
+
+Connect the topic to a current trend or popular area of interest.
+
+Examples:
+
+- Biohacking
+- Recovery
+- Healthy aging
+
+---
+
+## Story
+
+Use a relatable situation to introduce the topic.
+
+Examples:
+
+- You drink enough water but still feel tired.
+- You sleep 8 hours but wake up exhausted.
