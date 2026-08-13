@@ -92,15 +92,3 @@ One visual story
 No text
 ↓
 Photorealism
-
----
-
-## Topics That Consistently Work
-
-(To be expanded)
-
----
-
-## Topics That Consistently Fail
-
-(To be expanded)
