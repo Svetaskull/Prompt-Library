@@ -68,15 +68,20 @@ Examples:
 - Quiz
 - Checklist
 
+See `Content Angles Library.md` for the full content angle library.
+
 ---
 
-# Hooks That Usually Perform Well
+## Hook Guidelines
 
-- Why does this happen?
-- Most people don't know this.
-- This symptom is often ignored.
-- You may be making this mistake.
-- Summer changes more than you think.
+Beautery hooks should usually:
+
+- Start with a recognizable problem
+- Create curiosity
+- Focus on a specific audience situation
+- Avoid exaggerated claims
+
+See `Winning Hooks Library.md` for reusable hook examples.
 
 ---
 
@@ -117,15 +122,3 @@ Examples:
 - Unrealistic promises
 - Medical claims
 - Complex scientific language
-
----
-
-# Lessons Learned
-
-(To be updated)
-
----
-
-# Winning Ideas
-
-(To be updated)
