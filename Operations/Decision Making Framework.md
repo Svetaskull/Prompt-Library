@@ -206,3 +206,29 @@ A scalable management system should allow:
 **Leadership → strategic or cross-functional decisions**
 
 The goal is to keep decisions at the lowest appropriate level while maintaining visibility and control.
+
+---
+
+## Quick Decision Check
+
+Before making an operational decision, ask:
+
+### 1. Will this save time in the future?
+
+If yes, consider documenting or systematizing it.
+
+### 2. Will this problem happen again?
+
+If yes, consider creating a process or SOP.
+
+### 3. Am I solving the root cause?
+
+Check whether the proposed solution addresses the underlying problem rather than only the visible symptom.
+
+### 4. Can this be simplified?
+
+Look for the simplest effective solution.
+
+### 5. Can this be reused?
+
+Reusable solutions can create more value than one-time fixes.
