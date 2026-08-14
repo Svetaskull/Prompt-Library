@@ -1,6 +1,10 @@
 # Content Patterns That Work
 
-Collection of recurring content patterns that consistently attract attention.
+Collection of recurring content structures that have shown potential or positive results in Beautery content.
+
+These patterns are reusable frameworks, not guarantees of performance.
+
+They should be adapted to the topic, audience and context.
 
 ---
 
