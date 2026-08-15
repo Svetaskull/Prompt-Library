@@ -17,6 +17,7 @@ Create a new file only if:
 - The topic is large enough.
 - The topic will grow over time.
 - The topic does not fit existing files.
+- The information has a distinct purpose or audience.
 
 ---
 
