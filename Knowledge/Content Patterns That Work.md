@@ -8,112 +8,84 @@ They should be adapted to the topic, audience and context.
 
 ---
 
-# Pattern 1: Symptom First
+## 1. Symptom First
 
-## Formula
+### Formula
 
-Symptom
-↓
-Explanation
-↓
-Solution
+Symptom → Explanation → Practical Advice
 
-## Example
+### Example
 
 Why do your legs cramp more often in summer?
 
 ---
 
-# Pattern 2: Myth Busting
+## 2. Myth Busting
 
-## Formula
+### Formula
 
-Popular belief
-↓
-Why it is wrong
-↓
-Correct explanation
+Popular belief → Why it is misleading → Correct explanation
 
-## Example
+### Example
 
 Magnesium should be taken only before sleep.
 
 ---
 
-# Pattern 3: Seasonal Relevance
+## 3. Seasonal Relevance
 
-## Formula
+### Formula
 
-Current season
-↓
-Common problem
-↓
-Practical advice
+Current season → Common problem → Practical advice
 
-## Example
+### Example
 
 Why workouts feel harder during hot weather.
 
 ---
 
-# Pattern 4: Recognition
+## 4. Recognition
 
-## Formula
+### Formula
 
-Describe a situation
-↓
-Audience recognizes themselves
-↓
-Provide explanation
+Describe a situation → Audience recognizes themselves → Provide explanation
 
-## Example
+### Example
 
 You sleep enough but still feel tired.
 
 ---
 
-# Pattern 5: Hidden Cause
+## 5. Hidden Cause
 
-## Formula
+### Formula
 
-Common problem
-↓
-Unexpected reason
-↓
-Solution
+Common problem → Unexpected possible reason → Explanation
 
-## Example
+### Example
 
 Your headaches may not be caused by stress.
 
 ---
 
-# Pattern 6: Mistakes
+## 6. Mistakes
 
-## Formula
+### Formula
 
-Common mistake
-↓
-Consequence
-↓
-Correct approach
+Common mistake → Consequence → Correct approach
 
-## Example
+### Example
 
 3 mistakes people make when taking supplements.
 
 ---
 
-# Pattern 7: Checklist
+## 7. Checklist
 
-## Formula
+### Formula
 
-Question
-↓
-Checklist
-↓
-Recommendation
+Question → Checklist → Recommendation
 
-## Example
+### Example
 
 How to know if you are drinking enough water.
