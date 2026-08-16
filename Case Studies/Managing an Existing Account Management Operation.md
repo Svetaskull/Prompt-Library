@@ -4,7 +4,7 @@
 
 I joined an existing account management operation rather than building the team and processes from scratch.
 
-My role is to manage the day-to-day execution of the existing system, coordinate the account management team, monitor operational performance and identify risks or dependencies that can affect delivery.
+My role is to manage day-to-day execution, coordinate the account management team, monitor operational performance and identify risks or dependencies that can affect delivery.
 
 The team currently consists of 11 account managers.
 
@@ -14,7 +14,22 @@ A separate group of account managers focuses specifically on TikTok.
 
 ---
 
-# Team Responsibilities
+## Platforms
+
+The team works across:
+
+- TikTok
+- Instagram
+- Pinterest
+- YouTube
+- VK Video
+- Дзен
+- RuTube
+- Likee
+
+---
+
+## Team Responsibilities
 
 The account management team is responsible for:
 
@@ -29,7 +44,7 @@ The account management team is responsible for:
 
 ---
 
-# My Responsibilities
+## My Responsibilities
 
 As Team Lead, I am responsible for:
 
@@ -72,11 +87,11 @@ I consolidate the information and communicate the issue to the creator team lead
 
 This creates a clear separation of responsibilities:
 
-**Creator team → content production**
+Creator team → content production
 
-**Account management team → content publication**
+Account management team → content publication
 
-**Team Lead → coordination and escalation**
+Team Lead → coordination and escalation
 
 ---
 
@@ -93,6 +108,36 @@ When publication errors are identified, I communicate the issue to the responsib
 When an account becomes unstable or stops performing, the account may need to be transferred to another manager.
 
 I coordinate the redistribution of accounts when necessary to maintain operational continuity.
+
+---
+
+# Problem Escalation Workflow
+
+Problem detected
+
+↓
+
+Initial assessment
+
+↓
+
+Temporary solution or correction
+
+↓
+
+Communication with responsible team
+
+↓
+
+Monitoring
+
+↓
+
+Final resolution
+
+Not every operational problem belongs to the account management team.
+
+Part of the Team Lead's role is identifying which problems can be solved within the team and which require escalation to another function.
 
 ---
 
@@ -120,7 +165,7 @@ This demonstrated the importance of maintaining enough operational flexibility t
 
 ---
 
-# Cross-Team Dependencies
+## Cross-Team Dependencies
 
 A significant part of the account management workflow depends on the creator team.
 
@@ -169,8 +214,6 @@ The incident did not indicate a failure of the employee, but rather a limitation
 ---
 
 # Identified Improvement Opportunities
-
-Based on working with the existing system, several potential improvements have been identified.
 
 ## Reporting
 
@@ -235,15 +278,11 @@ My approach to managing an existing operation is based on three principles.
 
 Before changing a process, make sure the existing operation continues to work.
 
----
-
 ## 2. Understand The Real Workflow
 
 Do not redesign a process based only on documentation.
 
 First observe how people actually work, where errors occur and where the real bottlenecks are.
-
----
 
 ## 3. Improve Based On Evidence
 
@@ -252,6 +291,30 @@ Process changes should be driven by recurring problems rather than isolated inci
 The goal is not to change processes for the sake of change.
 
 The goal is to remove recurring friction and make the system easier to scale.
+
+---
+
+# Key Lessons
+
+### Clear Processes Reduce Mistakes
+
+When responsibilities and workflows are explicit, fewer problems need to be resolved manually.
+
+### Documentation Saves Time
+
+Reusable documentation reduces repeated explanations and makes onboarding easier.
+
+### Early Issue Detection Matters
+
+Operational problems are easier to manage when they are identified before they affect the entire workflow.
+
+### Responsibility Boundaries Matter
+
+A Team Lead should distinguish between problems the team can solve and problems that require escalation to another function.
+
+### Operational Flexibility Matters
+
+Redistributing accounts or responsibilities can help maintain continuity when individual accounts or workloads become unstable.
 
 ---
 
