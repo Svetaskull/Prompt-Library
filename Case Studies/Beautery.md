@@ -2,235 +2,150 @@
 
 ## Project Overview
 
-Beautery is a marketplace focused on:
-
-- Vitamins
-- Supplements
-- Sports nutrition
-- Beauty products
-
----
-
-## Main Content Formats
-
-### Instagram Posts
-
-Educational content focused on:
-
-- Health awareness
-- Product education
-- Seasonal topics
-- Lifestyle recommendations
-
-### Carousels
-
-Common formats:
-
-- Problem → Solution
-- Myth → Fact
-- Symptoms → Explanation
-- Quiz
-
-### Seasonal Content
-
-Examples:
-
-- Summer fatigue
-- Electrolytes
-- Hydration
-- Recovery
-- Heat-related symptoms
-
----
-
-## Content Strategy
-
-### Goals
-
-- Build trust
-- Educate audience
-- Increase engagement
-- Connect educational content with products
-
-### Preferred Angles
-
-- Symptoms
-- Mistakes
-- Myths
-- Seasonal problems
-- Practical recommendations
-
----
-
-## Image Guidelines
-
-### Requirements
-
-- Photorealistic style
-- No text on image
-- No infographics
-- No before/after collages
-- Vertical Instagram format
-
-### Preferred Visual Elements
-
-- Transparent supplement jars
-- Realistic labels
-- Grey countertop
-- Nude manicure
-- Natural daylight
-- Space for logo placement
-
----
-
-## AI Tools
-
-### Content
-
-- ChatGPT
-
-### Images
-
-- Nana Banana
-- Kling
-
----
-
-## Lessons Learned
-
-### Content
-
-Topics perform better when they:
-
-- Solve a specific problem
-- Address common symptoms
-- Relate to seasonal changes
-- Provide practical value
-
-### Images
-
-Images perform better when they:
-
-- Look realistic
-- Focus on one clear idea
-- Avoid excessive text
-- Match the post topic naturally
-
----
-
-## Future Improvements
-
-- Expand content frameworks
-- Improve image prompt library
-- Create reusable workflows
-- Document successful content patterns
-
----
-
-# Beautery Marketplace
-
-## Overview
-
 Beautery is an e-commerce marketplace focused on:
 
 - Vitamins
 - Supplements
 - Sports nutrition
+- Beauty products
 - Wellness products
 
 ---
 
 ## My Role
 
-Content Operations
+Content Operations & Content Strategy
 
-Responsibilities:
+My work combined content planning, educational content development, AI-assisted production, process design and knowledge management.
+
+---
+
+## Responsibilities
 
 - Content planning
 - Content strategy
 - Educational content development
-- AI-assisted content creation
-- Documentation
+- Social media content creation
+- AI-assisted content production
+- Content framework development
+- Prompt development
+- Workflow optimization
+- Documentation and knowledge management
 
 ---
 
-## Challenges
+## Main Challenges
+
+The main challenges included:
 
 - Large content volume
-- Maintaining educational value
-- Avoiding medical claims
-- Creating reusable systems
-- Scaling content production
+- Maintaining consistent content quality
+- Creating educational content with practical value
+- Avoiding unsupported medical claims
+- Producing content efficiently at scale
+- Building reusable systems instead of relying on one-off work
 
 ---
 
-## Solutions
+## What I Built
 
-### Content Frameworks
+### Content Systems
 
-Created repeatable frameworks for:
+Created reusable frameworks for:
 
 - Instagram posts
 - Carousels
 - Educational content
+- Content angles
+- Hooks
+- Content evaluation
+- Content experimentation
+- Content performance analysis
 
-### Prompt Library
+### AI-Assisted Workflows
 
-Built a structured prompt collection for:
+Integrated AI into different stages of content production, including:
 
-- Content creation
+- Social media content
+- Product descriptions
+- Article generation
+- Content ideation
+- Content structuring
 - Image generation
-- Strategy development
 
-### Documentation
+### Knowledge Management
 
-Created reusable documentation and knowledge systems.
+Built a structured documentation system containing:
 
----
-
-## Key Lessons
-
-### Lesson 1
-
-People engage more with problems than ingredients.
-
-### Lesson 2
-
-Seasonal topics improve engagement.
-
-### Lesson 3
-
-Simple explanations outperform expert terminology.
+- Content frameworks
+- Prompt libraries
+- AI workflows
+- Lessons learned
+- Reusable processes
+- Content patterns
+- Operational knowledge
 
 ---
 
-## Future Improvements
+## AI Usage
 
-- Better automation
-- More content templates
-- Expanded knowledge base
+AI was used not only for creative content generation, but also for scaling repetitive production tasks.
+
+Examples included:
+
+- GPT-assisted product description generation through Google Sheets
+- AI-assisted article generation
+- Social media content creation
+- Image generation
+- Content ideation and structuring
+
+The approach was based on:
+
+**AI-assisted production → Human review → Final output**
+
+AI accelerated repetitive work while final quality control and decision-making remained human responsibilities.
 
 ---
 
-## Related Documentation
+## Key Principles
 
-### Content Strategy
+The content approach was based on several principles:
 
-- Content Angles Library
-- Winning Hooks Library
-- Content Matrix
+- Start with audience problems rather than products.
+- Prefer specific problems over generic information.
+- Prioritize practical value.
+- Use reusable frameworks instead of creating every piece from scratch.
+- Treat AI as a production tool rather than a replacement for judgment.
+- Document useful knowledge so it can be reused.
 
-### Content Creation
+---
 
-- Beautery Instagram Posts
-- Carousels
+## Key Outcomes
 
-### Image Generation
+- Built reusable content frameworks.
+- Developed a structured prompt library.
+- Integrated AI into large-scale content production workflows.
+- Created a reusable knowledge base.
+- Documented content patterns and lessons learned.
+- Developed systems for more consistent and scalable content production.
 
-- Beautery Product Photography
-- Instagram Post Concepts
+---
 
-### Knowledge
+## Related Case Studies
 
-- Marketing Principles
-- Lessons Learned
+### Content Strategy & Production
+
+- `Building a Content System for Beautery.md`
+- `AI-Assisted Content Production.md`
+- `Scaling Product Content.md`
+- `Content Failures.md`
+
+### Supporting Documentation
+
+- `Content Strategy/Beautery Content Framework.md`
+- `Content Strategy/Content Strategy Framework.md`
+- `Content Strategy/Content Performance Analysis Framework.md`
+- `Content Strategy/Content Experimentation Framework.md`
+- `ChatGPT/Best Prompts Collection.md`
+- `Automation/AI Workflow Examples.md`
+- `Knowledge/Lessons Learned.md`
