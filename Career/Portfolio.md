@@ -1,142 +1,86 @@
 # Portfolio
 
-## Inbound Recruiter Interest
+## Professional Positioning
+
+Content Operations & Team Lead with experience across:
+
+- Content operations
+- Team management
+- Content strategy
+- AI-assisted workflows
+- Process development
+- Knowledge management
+
+## Current Role
+
+### Team Lead, Account Management
+
+Focus:
+
+- Team coordination
+- Operational management
+- Publication workflows
+- Reporting
+- Process improvement
+- Documentation
+- Problem escalation
+
+See:
+`Case Studies/Managing an Existing Account Management Operation.md`
+
+---
+
+## Selected Case Studies
+
+### Building a Content System for Beautery
+
+Content strategy, reusable frameworks, AI-assisted production and knowledge management.
+
+See:
+`Case Studies/Beautery.md`
+
+### AI-Assisted Content Production
+
+AI workflows for scalable content generation and human quality control.
+
+See:
+`Case Studies/AI-Assisted Content Production.md`
+
+### Scaling Product Content
+
+Process optimization, standardization and automation for high-volume content production.
+
+See:
+`Case Studies/Scaling Product Content.md`
+
+### Managing an Existing Account Management Operation
+
+Team leadership, operational coordination, reporting and process improvement.
+
+See:
+`Case Studies/Managing an Existing Account Management Operation.md`
+
+---
+
+## External Signals
 
 ### Yandex
 
-### Opportunity
-
-Team Lead — Retail Content Teams
-
-### Context
-
-A Yandex recruiter reached out directly with a job opportunity.
-
-I had not applied to the position beforehand.
-
-### Status
+A Yandex recruiter contacted me directly regarding a Team Lead — Retail Content Teams opportunity.
 
 Initial interview completed.
 
-### Significance
-
-This is an external signal that my experience in content operations, team management and workflow development is relevant to Team Lead-level opportunities.
+This serves as an external signal that my experience is relevant to Team Lead-level roles.
 
 ---
 
-## Beautery Marketplace
+## Professional Direction
 
-### Role
+Potential next-step roles:
 
-Content Operations & Content Strategy
-
-### Responsibilities
-
-- Content planning
-- Educational content creation
-- Content frameworks
-- AI-assisted workflows
-- Knowledge management
-
-### Key Areas
-
-- Vitamins
-- Supplements
-- Sports nutrition
-- Wellness content
-
-### Achievements
-
-- Built content systems
-- Created reusable frameworks
-- Developed prompt libraries
-- Documented workflows
-
-### Professional Focus
-
-- Turning content production into repeatable systems
-- Using AI to accelerate content creation and iteration
-- Building reusable content frameworks
-- Documenting content knowledge and workflows
-
----
-
-## Account Management Team
-
-### Current Role
-
-Team Lead, Account Management
-
-### Responsibilities
-
-- Managing account managers
-- Coordinating daily workflows
-- Publication monitoring
-- Reporting control
-- Onboarding and support
-- Process improvement
-- Problem identification and escalation
-- Documentation and SOP development
-
-### Focus
-
-Building scalable workflows, reducing repetitive coordination and improving team visibility.
-
-### Professional Development
-
-This role combines:
-
-- Team leadership
-- Content operations
-- Process management
-- Quality control
-- Documentation
-- AI-assisted workflow optimization
-
----
-
-## TikTok Zero Views Investigation
-
-### Role
-
-Research & Operations
-
-### Goal
-
-Investigate and document possible causes of zero-view TikTok accounts.
-
-### Activities
-
-- Hypothesis generation
-- Process documentation
-- Experiment tracking
-- Team coordination
-
-### Professional Focus
-
-Turning recurring platform problems into documented investigation and troubleshooting processes.
-
----
-
-## AI Knowledge Base
-
-### Role
-
-Builder
-
-### Goal
-
-Create a personal knowledge management system focused on:
-
-- AI
-- Content
-- Operations
-- Automation
-
-### Result
-
-Growing GitHub repository with documented workflows, frameworks and lessons learned.
-
-### Professional Focus
-
-Building a practical system for turning experience, experiments and AI workflows into reusable knowledge.
+- Content Team Lead
+- Content Operations Lead
+- Content Operations Manager
+- AI Content Operations Lead
+- Content Project Manager
+- Operations Manager
