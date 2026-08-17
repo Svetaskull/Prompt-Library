@@ -2,146 +2,115 @@
 
 ## Context
 
-Beautery is a marketplace focused on supplements, vitamins, sports nutrition and wellness products.
+Beautery is an e-commerce marketplace focused on supplements, vitamins, sports nutrition and wellness products.
 
 My work covered both content production and the development of reusable approaches for creating and organizing content.
 
-The goal was not only to produce individual posts, but to build a more consistent and repeatable content process.
+The goal was not only to produce individual pieces of content, but to make the production process more consistent, repeatable and easier to scale.
 
 ---
 
-# Responsibilities
+## Challenge
 
-My work included:
+A recurring challenge was creating content that was useful and relevant without relying on generic product or ingredient descriptions.
 
-- Content planning
-- Educational content creation
-- Instagram post development
-- Carousel development
-- Content framework creation
-- Visual concept development
-- AI-assisted content production
-- Product-focused content
-- Content documentation
-- Knowledge management
+For example:
 
----
+**Generic approach**
 
-# Content Challenges
+Benefits of magnesium
 
-A recurring challenge was creating content that was useful and engaging without relying on generic product descriptions.
+**Problem-oriented approach**
 
-For example, content about an ingredient or product benefit can be informative but may not immediately feel relevant to the audience.
+Why do your legs cramp more often in summer?
+
+The second approach starts from a situation the audience may already recognize rather than from the product itself.
 
 This led to a stronger focus on:
 
 - Real-life problems
-- Symptoms and experiences
+- Symptoms and recognizable situations
 - Seasonal relevance
-- Practical situations
+- Practical value
 - Clear takeaways
 
 ---
 
-# Content Approach
+## Approach
 
-## Problem First
+### 1. Start With The Audience Problem
 
-Instead of starting with:
+Content planning was shifted toward audience needs rather than product features.
 
-> "What does this ingredient do?"
+Instead of asking:
 
-the content can start with:
+> What can we say about this product?
 
-> "What problem is the audience experiencing?"
+the starting question became:
 
-This creates a more audience-oriented starting point.
+> What problem, question or situation can this content address?
 
----
-
-## Seasonal Relevance
-
-Content becomes more relevant when it addresses problems people are experiencing at the moment.
-
-Examples include:
-
-- Why legs cramp more often in summer
-- Why recovery can feel harder in heat
-- Why training can feel more exhausting during hot weather
+This created a more audience-oriented foundation for content ideas.
 
 ---
 
-## Practical Value
+### 2. Use Reusable Content Structures
 
-The content should provide a useful takeaway rather than simply listing information.
+Instead of developing every piece of content from scratch, recurring structures were documented and reused.
 
-A single strong recommendation is often more useful than a large list of weak tips.
+Examples included:
 
----
+- Symptom → Explanation → Solution
+- Myth → Explanation → Correct approach
+- Problem → Practical advice
+- Mistake → Consequence → Correct approach
+- Checklist → Recommendation
 
-# Content Formats
-
-Different ideas were adapted into different formats.
-
-## Instagram Posts
-
-Used for:
-
-- Educational explanations
-- Practical recommendations
-- Product-related topics
-- Short expert content
+This reduced unnecessary decision-making during content production.
 
 ---
 
-## Carousels
+### 3. Add Seasonal Relevance
 
-Used for:
+Topics were connected to situations that were relevant to the audience at the time.
 
-- Symptoms
-- Myths
-- Step-by-step explanations
-- Seasonal problems
-- Curiosity-driven topics
+Examples included:
 
-A typical carousel structure:
+- Summer fatigue
+- Hydration
+- Recovery in hot weather
+- Summer workouts
+- Muscle cramps
 
-1. Hook
-2. Problem
-3. Explanation
-4. Key information
-5. Practical advice
-6. Additional context
-7. Conclusion / CTA
+Seasonal context provided a stronger reason for the audience to pay attention to an otherwise familiar topic.
 
 ---
 
-# Visual Content
+### 4. Build Content Around One Main Idea
 
-Visuals were developed as part of the content concept rather than treated as decoration.
+A recurring principle was to avoid trying to explain everything in one publication.
 
-The visual approach focused on:
-
-- Photorealism
-- Clear visual storytelling
-- No unnecessary text
-- No infographic-style elements
-- Premium wellness aesthetics
-- Social-media-friendly composition
-
-For product photography, specific visual requirements were documented and reused.
+Each piece of content was built around one primary idea, with supporting information used to explain or reinforce it.
 
 ---
 
-# AI-Assisted Workflow
+### 5. Integrate Visual Production Into The Process
 
-Generative AI became part of the content production workflow.
+Visuals were treated as part of the content concept rather than as decoration added at the end.
+
+Reusable visual requirements and image-generation practices were documented separately to make production more consistent.
+
+---
+
+## AI-Assisted Production
+
+Generative AI was integrated into multiple stages of the workflow.
 
 AI was used for:
 
 - Brainstorming
-- Content structure
 - Topic development
+- Content structuring
 - Hook generation
 - Visual concept development
 - Image generation
@@ -150,115 +119,95 @@ AI was used for:
 
 AI was treated as a working tool rather than a replacement for editorial judgment.
 
-The final decision about relevance, quality and usability remained human-controlled.
+The workflow remained human-controlled:
+
+Human defines the objective
+
+↓
+
+AI generates and structures possibilities
+
+↓
+
+Human evaluates relevance
+
+↓
+
+AI helps iterate
+
+↓
+
+Human selects and edits the final result
+
+↓
+
+Final content
 
 ---
 
-# Content Knowledge Base
+## Content Knowledge Base
 
 Reusable knowledge was documented instead of being kept only in individual conversations.
 
-This included:
+The knowledge base included:
 
-- Prompt libraries
 - Content frameworks
+- Content angles
+- Hook structures
+- Prompt libraries
 - Visual requirements
-- Content principles
 - Lessons learned
-- Reusable structures
+- Reusable workflows
+- Content patterns
 
-The goal was to make successful approaches easier to repeat and adapt.
-
----
-
-# Lessons Learned
-
-## 1. Symptoms Can Be Stronger Than Ingredients
-
-Posts focused on problems people experience can be more engaging than posts focused only on ingredient benefits.
-
-For example:
-
-> Why legs cramp in summer
-
-can create more immediate relevance than:
-
-> Benefits of magnesium
+The goal was to make useful approaches easier to find, reuse and adapt.
 
 ---
 
-## 2. Seasonal Relevance Matters
+## From Content Production To Content System
 
-People are more likely to engage with problems that are relevant to their current situation.
-
----
-
-## 3. One Strong Takeaway Is Better Than Many Weak Tips
-
-Content does not need to contain as much information as possible.
-
-A clear and useful takeaway can provide more value than an overloaded post.
-
----
-
-# Reusable Content System
-
-The work gradually evolved from creating individual pieces of content toward reusable systems.
+The work gradually evolved from producing individual pieces of content toward building a repeatable production system.
 
 Instead of repeatedly starting from zero:
 
-**Topic → Format → Structure → Visual concept → Production → Review**
+Topic → Format → Structure → Visual Concept → Production → Review
 
-could be turned into repeatable workflows.
+the process could rely on documented frameworks, reusable prompts and previously tested approaches.
 
-This reduces unnecessary decision-making and makes content production easier to scale.
-
----
-
-# AI + Human Workflow
-
-The workflow can be summarized as:
-
-**Human defines the objective**
-
-↓
-
-**AI generates and structures possibilities**
-
-↓
-
-**Human evaluates relevance**
-
-↓
-
-**AI helps iterate**
-
-↓
-
-**Human selects and edits the final result**
-
-This approach combines AI speed with human editorial judgment.
+This reduced repetitive decision-making and made the workflow easier to scale.
 
 ---
 
-# Key Skills Demonstrated
+## Key Learnings
 
-- Content strategy
-- Content operations
-- Educational content
-- Social media content
-- Content frameworks
-- Visual direction
-- AI-assisted production
-- Prompt development
-- Knowledge management
-- Process documentation
-- Editorial judgment
+### Problem-Oriented Content
+
+Content based on recognizable audience problems can create stronger relevance than generic ingredient-focused content.
+
+### Seasonal Relevance
+
+Connecting content to situations the audience is experiencing at the moment can increase relevance.
+
+### One Clear Takeaway
+
+A strong, focused takeaway is often more useful than trying to include as much information as possible.
+
+### Documentation
+
+Reusable knowledge becomes more valuable when it is documented and easy to retrieve.
+
+### AI + Human Collaboration
+
+AI is most useful when integrated into a structured workflow where humans remain responsible for relevance, quality and final decisions.
 
 ---
 
-# Key Lesson
+## Key Outcome
 
-The value of a content team is not only in producing more content.
+The work moved the content process from a collection of individual production tasks toward a more structured and reusable system.
 
-A strong content system makes it easier to repeatedly produce useful, relevant and consistent content without rebuilding the process from scratch every time.
+The system combined:
+
+**Content frameworks + reusable prompts + AI-assisted production + documented knowledge + human review**
+
+This made it easier to produce content consistently without rebuilding the approach from scratch every time.
