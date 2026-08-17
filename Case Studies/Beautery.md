@@ -138,7 +138,6 @@ The content approach was based on several principles:
 - `Building a Content System for Beautery.md`
 - `AI-Assisted Content Production.md`
 - `Scaling Product Content.md`
-- `Content Failures.md`
 
 ### Supporting Documentation
 
