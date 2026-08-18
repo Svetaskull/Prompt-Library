@@ -62,18 +62,6 @@ See:
 
 ---
 
-## External Signals
-
-### Yandex
-
-A Yandex recruiter contacted me directly regarding a Team Lead — Retail Content Teams opportunity.
-
-Initial interview completed.
-
-This serves as an external signal that my experience is relevant to Team Lead-level roles.
-
----
-
 ## Professional Direction
 
 Potential next-step roles:
