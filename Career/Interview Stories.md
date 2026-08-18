@@ -59,6 +59,51 @@ Clear processes and responsibilities reduce unnecessary coordination.
 
 ---
 
+# Problem Solving / Business Case
+
+## Yandex — Conversion Optimization Case
+
+### Situation
+
+I worked on a test case focused on improving product card conversion for a retail content team.
+
+### Problem
+
+The goal was to increase conversion from 26% to 31.2%.
+
+The challenge was to determine where the content team's effort could have the largest business impact rather than simply optimizing the average conversion rate.
+
+### Action
+
+- Prioritized partners with high GMV and low conversion
+- Identified product card structure and completeness as initial hypotheses
+- Compared conversion between standardized and non-standardized cards
+- Considered available team capacity and incoming product volume
+- Defined primary and secondary performance metrics
+- Proposed prioritizing work based on business impact
+- Planned to compare treated and untreated products and segment results by partner and category
+- Considered team capacity, ownership and workload distribution
+- Used AI to structure the problem, compare approaches and check calculations
+- Reviewed assumptions and final decisions manually
+
+### Result
+
+Developed a structured approach for improving conversion through:
+
+- Product card standardization
+- Content completeness
+- Business-impact-based prioritization
+- Measurement and experimentation
+- Continuous optimization of new products
+
+### Lesson
+
+Content optimization should be connected to business impact.
+
+The goal is not simply to produce or improve more content, but to prioritize changes that can have the greatest measurable effect.
+
+---
+
 # Process Improvement
 
 ## Turning Repeated Questions Into Documentation
