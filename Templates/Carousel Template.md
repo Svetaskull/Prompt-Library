@@ -1,41 +1,83 @@
 # Carousel Template
 
-## Slide 1
-
-Hook
+Reusable structure for educational and problem-oriented Instagram carousels.
 
 ---
 
-## Slide 2
+## Slide 1 — Hook
 
-Problem
+**Goal:** Make the audience stop scrolling and create a reason to continue.
 
----
-
-## Slide 3
-
-Explanation
+[HOOK]
 
 ---
 
-## Slide 4
+## Slide 2 — Problem
 
-Additional Insight
+Introduce the problem, symptom or situation the audience recognizes.
 
----
-
-## Slide 5
-
-What To Do
+[PROBLEM]
 
 ---
 
-## Slide 6
+## Slide 3 — Explanation
 
-Key Takeaway
+Explain why the problem happens or introduce the main idea behind it.
+
+[EXPLANATION]
 
 ---
 
-## Slide 7
+## Slide 4 — Additional Context
 
-CTA
+Add supporting information, an important distinction or additional insight.
+
+[ADDITIONAL CONTEXT]
+
+---
+
+## Slide 5 — Practical Advice
+
+Explain what the audience can do with this information.
+
+[PRACTICAL ADVICE]
+
+---
+
+## Slide 6 — Key Takeaway
+
+Summarize the most important idea in a clear and memorable way.
+
+[KEY TAKEAWAY]
+
+---
+
+## Slide 7 — CTA
+
+Encourage an appropriate next action.
+
+Examples:
+
+- Save the post
+- Share it
+- Answer a question
+- Continue exploring the topic
+
+[CTA]
+
+---
+
+## Visual Concept
+
+Describe the main visual idea:
+
+[VISUAL CONCEPT]
+
+### Visual Requirements
+
+- Photorealistic
+- No text embedded in the generated image
+- Vertical 4:5 format
+- Natural lighting
+- One clear visual idea
+- Composition suitable for social media
