@@ -213,6 +213,13 @@ When demand increases, do not automatically ask:
 
 > "How can the team work faster?"
 
+## Related Case Study
+
+For a practical example of capacity planning and workflow redesign in high-volume content production, see:
+
+`Case Studies/Scaling Product Content.md`
+
+
 First ask:
 
 > "Can the process itself be improved?"
