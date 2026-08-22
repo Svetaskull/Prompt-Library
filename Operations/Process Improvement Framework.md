@@ -151,37 +151,3 @@ The improvement should become part of the system rather than remain dependent on
 Do not optimize individual tasks indefinitely.
 
 Optimize the system that produces those tasks.
-
----
-
-# Example
-
-## Problem
-
-A large number of product cards must be created within a short deadline.
-
-## Initial Approach
-
-Increase the number of people manually creating cards.
-
-## Better Approach
-
-Analyze the workflow first:
-
-1. Identify repetitive steps.
-2. Determine which steps can be automated.
-3. Define a standard data structure.
-4. Prepare a clear technical specification.
-5. Coordinate with development.
-6. Automate bulk operations where possible.
-7. Use the content team for quality control and exceptions.
-
-## Result
-
-The team spends less time on repetitive manual work and more time on tasks that require human judgment.
-
-## Lesson
-
-When the volume increases dramatically, increasing headcount is not always the best first solution.
-
-First look for opportunities to redesign the process.
